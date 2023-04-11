@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>@Sheffield</a>. # Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>🍚</a>. # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -26,8 +26,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am currently a PhD at the Department of Computer Science at the University of Sheffield, supervised by [Chenghua Lin](https://chenghualin.wordpress.com/).
-
+I am currently a PhD student at the Department of Computer Science at the University of Sheffield, supervised by [Chenghua Lin](https://chenghualin.wordpress.com/).
 I previously worked as a research assistant at Tsinghua NLP Lab with [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
 
-My research interests include natural language processing and computational music, which can be referred to the [publication pages](https://yizhilll.github.io/publications/).
+My research interests include music modelling, fairness in NLP, and general topics natural language modelling. More can be referred to the [publication pages](https://yizhilll.github.io/publications/).
