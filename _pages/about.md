@@ -30,3 +30,5 @@ I am currently a PhD student at the Department of Computer Science at the Univer
 I previously worked as a research assistant at Tsinghua NLP Lab with [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
 
 My research interests include music modelling, fairness in NLP, and general topics natural language modelling. More can be referred to the [publication pages](https://yizhilll.github.io/publications/).
+
+Academic Service: reviewer at EACL, EMNLP, ISMIR.

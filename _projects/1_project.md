@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: M-A-P Series Model
+description: A project for large-scale music audio pre-training.
+# img: assets/img/12.jpg
 importance: 1
 category: work
 ---
