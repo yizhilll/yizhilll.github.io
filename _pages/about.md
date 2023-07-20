@@ -26,7 +26,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am currently a PhD student at the Department of Computer Science at the University of Sheffield, supervised by [Chenghua Lin](https://chenghualin.wordpress.com/).
+I am currently a Computer Science PhD student funded by the University of Sheffield, supervised by [Chenghua Lin](https://chenghualin.wordpress.com/).
 I am also a co-founder of the [Multimodal Art Projection (M-A-P)](https://m-a-p.ai) research community.
 I previously worked as a research assistant at Tsinghua NLP Lab with [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
 
