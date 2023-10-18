@@ -26,9 +26,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am currently a Computer Science PhD student funded by the University of Sheffield, supervised by [Chenghua Lin](https://chenghualin.wordpress.com/).
-I am also a co-founder of the [Multimodal Art Projection (M-A-P)](https://m-a-p.ai) research community.
-I previously worked as a research assistant at Tsinghua NLP Lab with [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
+I am currently a Computer Science PhD student funded by the University of Manchester, supervised by [Prof. Chenghua Lin](https://chenghualin.wordpress.com/).
+I am also a co-founder of the [Multimodal Art Projection (M-A-P)](https://m-a-p.ai) research community. I've collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and had a lot fun.
+I previously worked as a research assistant at Tsinghua NLP Lab with [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
 
 My research interests include music modelling, fairness in NLP, and general topics natural language modelling. More can be referred to the [publication pages](https://yizhilll.github.io/publications/).
 
