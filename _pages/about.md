@@ -6,12 +6,12 @@ subtitle: <a href='#'>🍚</a>. # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Regent Court</p>
-    <p>211 Portobello</p>
-    <p>Sheffield, S1 4DP, UK</p>
+    <p>Kilburn Building,</p>
+    <p>Oxford Rd,</p>
+    <p>Manchester M13 9PL, UK</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -32,4 +32,4 @@ I previously worked as a research assistant at Tsinghua NLP Lab with [Prof. Zhiy
 
 My research interests include music modelling, fairness in NLP, and general topics natural language modelling. More can be referred to the [publication pages](https://yizhilll.github.io/publications/).
 
-Academic Service: reviewer at EACL, EMNLP, INLG, ISMIR.
+Academic Service: reviewer at ACL, EACL, EMNLP, INLG, ISMIR.
