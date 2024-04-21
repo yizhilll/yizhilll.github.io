@@ -3,8 +3,9 @@ github_users:
   - yizhilll
 
 github_repos:
+  - yizhilll/CIF-Bench
+  - yizhilll/MERT
   - yizhilll/CORGI-PM
   - yizhilll/TranSHER
   - thunlp/OpenMatch
   - thunlp/DANCE
-  - yizhilll/toyLanguage
