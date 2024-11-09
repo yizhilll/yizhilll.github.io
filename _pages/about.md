@@ -2,16 +2,14 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>🍚</a>. # Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>💍📖💻🐶⛰️🤿</a>. # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Kilburn Building,</p>
-    <p>Oxford Rd,</p>
-    <p>Manchester M13 9PL, UK</p>
+    <p>w/ Jolly at Llandudno, Wales, 2023</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am currently a Computer Science PhD student funded by the University of Manchester, supervised by [Prof. Chenghua Lin](https://chenghualin.wordpress.com/). I am also a co-founder of the [Multimodal Art Projection (M-A-P)](https://m-a-p.ai) research community, which aims to drive open-source academia-level research to cutting-edge level as the industry. I've collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and had a lot fun.  
 
 ---
-#### Research
+### Research
 
 My current research study involves post-training of LLMs and multi-modal alignment, and the research questions including:
 
@@ -44,7 +42,7 @@ More recent and detailed topics can be referred to my [publication pages](https:
 
 
 ---
-#### Passed Experience
+### Passed Experience
 
 * Intenrned at [J.P. Morgan Artificial Intelligence Research](https://www.jpmorgan.com/technology/artificial-intelligence).
 * I previously worked as a research assistant at Tsinghua NLP Lab with [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
