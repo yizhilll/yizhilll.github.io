@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Not much on teaching yet.
-nav: true
+nav: false
 nav_order: 5
 ---
 

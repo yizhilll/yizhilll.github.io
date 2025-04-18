@@ -18,22 +18,18 @@ social: true  # includes social icons at the bottom of the page
 
 <meta name="google-site-verification" content="S4kbKtEbks2C_vUp5k0RsyUsqnr4iLwD6euFRIdAoQY" />
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 I am currently a Computer Science PhD student funded by the University of Manchester, supervised by [Prof. Chenghua Lin](https://chenghualin.wordpress.com/). I am also a co-founder of the [Multimodal Art Projection (M-A-P)](https://m-a-p.ai) research community, which aims to drive open-source academia-level research to cutting-edge level as the industry. I've collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and had a lot fun.  
 
 ---
 ### Research
 
-My current research study involves post-training of LLMs and multi-modal alignment, and the research questions including:
+My current research focus is mainly about the the post-training of LLM with reinforce learning. Specifically, as we have stepped into the new era of training LLM with one/similar recipe by setting customized goals, how to train a real generalized model under such a paradigm?
 
-* How to build an effective and robust self-evolved framework for LLMs with data synthesis (maingly during post-trianing)? Deriving important sub questions:
-  1. What is a good criteria for evaluating what the model acutally understand?
-  2. How to verify the quality of the generated contents, considering domain knowledge and general metrics?
+
+Other research questions involving post-training of LLMs and multi-modal alignment:
+
+* How to build an effective and robust self-evolved framework for LLMs with data synthesis (maingly during post-trianing)?
 * How to unifiy the understanding and generation of vision-langauge models?
 * The paradgim of aligning model among the text, vision and audio modalities.
 
