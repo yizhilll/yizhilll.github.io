@@ -27,7 +27,7 @@ latest_posts:
 
 <meta name="google-site-verification" content="S4kbKtEbks2C_vUp5k0RsyUsqnr4iLwD6euFRIdAoQY" />
 
-I am currently a Computer Science PhD candidate funded by the University of Manchester, supervised by <a href="https://chenghua-lin.github.io/">Prof. Chenghua Lin</a>. I am also a co-founder of the <a href="https://m-a-p.ai">Multimodal Art Projection (M-A-P)</a> research community, which aims to drive open-source academia-level research to cutting-edge level as the industry. I've collaborated with <a href="https://bigaidream.github.io/">Dr. Jie Fu</a> and had a lot fun.
+I am currently a Computer Science PhD candidate funded by the University of Manchester, supervised by <a href="https://chenghua-lin.github.io/">Prof. Chenghua Lin</a>. I am also a co-founder of the <a href="https://m-a-p.ai">Multimodal Art Projection (M-A-P)</a> <img src="/assets/img/map-logo-c.ico" alt="MAP" style="height: 1.2em; display: inline; vertical-align: middle;"> research community, which aims to drive open-source academia-level research to cutting-edge level as the industry. I've collaborated with <a href="https://bigaidream.github.io/">Dr. Jie Fu</a> and had a lot fun.
 
 ---
 
