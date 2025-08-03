@@ -4,4 +4,4 @@ date: 2023-11-07 15:59:00-0400
 inline: true
 ---
 
-[MARBLE](https://arxiv.org/abs/2306.10548) is accepted by [NeurIPS'23](https://neurips.cc/Conferences/2023).
+<a href="https://arxiv.org/abs/2306.10548">MARBLE</a> is accepted by <a href="https://neurips.cc/Conferences/2023">NeurIPS'23</a>.
