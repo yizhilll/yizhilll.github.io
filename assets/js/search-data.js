@@ -417,6 +417,9 @@ ninja.data = [{
           section: "News",},{id: "news-delivered-a-tutorial-on-domain-specific-llm-at-nlpcc-2025-and-share-the-overview-about-the-organized-shared-task-on-gender-bias-mitigation-challenge",
           title: 'Delivered a tutorial on Domain-specific LLM at NLPCC 2025 and share the overview...',
           description: "",
+          section: "News",},{id: "news-two-papers-are-accepted-by-the-neurips-25",
+          title: 'Two papers are accepted by the NeurIPS’25.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
