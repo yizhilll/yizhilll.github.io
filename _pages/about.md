@@ -27,21 +27,22 @@ latest_posts:
 
 <meta name="google-site-verification" content="S4kbKtEbks2C_vUp5k0RsyUsqnr4iLwD6euFRIdAoQY" />
 
-I am currently a Computer Science PhD candidate funded by the University of Manchester, supervised by <a href="https://chenghua-lin.github.io/">Prof. Chenghua Lin</a>. I am also a co-founder of the <a href="https://m-a-p.ai">Multimodal Art Projection (M-A-P)</a> research community, which aims to drive open-source academia-level research to cutting-edge level as the industry. I've collaborated with <a href="https://bigaidream.github.io/">Dr. Jie Fu</a> and had a lot fun.
+I am currently a Computer Science PhD candidate funded by the University of Manchester, supervised by <a href="https://chenghua-lin.github.io/">Prof. Chenghua Lin</a>. 
+Currently an intern at <a href="https://iquestlab.github.io/">IQuest Research</a>.
+Co-founder of the <a href="https://m-a-p.ai">Multimodal Art Projection (M-A-P)</a> research community, which aims to drive open-source academia-level research to cutting-edge level as the industry. 
+I've collaborated with <a href="https://bigaidream.github.io/">Dr. Jie Fu</a> and had a lot fun.
 
 ---
 
 ### Research
 
-My current research focus is mainly about the the post-training of LLM with reinforce learning. Specifically, as we have stepped into the new era of training LLM with one/similar recipe by setting customized goals, how to train a real generalized model under such a paradigm?
+My current research focus involves:
 
-Other research questions involving post-training of LLMs and multi-modal alignment:
+- As we have stepped into the new era of training LLM with one/similar recipe by setting customized goals, how to train a real generalized model under such a paradigm?
+- What is the role of syntheic data / data engineering in the training life cycle?
+- Unified representation as the solution to world modelling.
 
-- How to build an effective and robust self-evolved framework for LLMs with data synthesis (maingly during post-trianing)?
-- How to unifiy the understanding and generation of vision-langauge models?
-- The paradgim of aligning model among the text, vision and audio modalities.
-
-Before the LLM era, my research interests could be concluded as these topics: language model evaluation, information retrieval, fairness in NLP, music modelling, and general topics natural language modelling.
+Before that, my research interests could be concluded as these topics: vision-language model, language model evaluation, information retrieval, fairness in NLP, music modelling, and general topics natural language modelling.
 More recent and detailed topics can be referred to my <a href="https://yizhilll.github.io/publications/">publication pages</a>.
 
 ---
