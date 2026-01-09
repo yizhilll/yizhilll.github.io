@@ -55,4 +55,4 @@ More recent and detailed topics can be referred to my <a href="https://yizhilll.
 - I previously worked as a research assistant at Tsinghua NLP Lab with <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.
 
 
-Academic Service: workshop organizer at <a href="https://open-foundation-model.github.io/">Open Science for Foundation Models, ICLR'25</a> and <a href="https://m-a-p.ai/LLM4Music/">LLM4MA, ISMIR'25</a>; reviewer at ACL, EACL, EMNLP, INLG, ISMIR, ICLR, ICASSP, NeurIPS.
+Academic Service: workshop organizer at <a href="https://open-foundation-model.github.io/">Open Science for Foundation Models, ICLR'25</a> and <a href="https://m-a-p.ai/LLM4Music/">LLM4MA, ISMIR'25</a>; reviewer at ACL, EMNLP, CVPR, ICLR, NeurIPS and more.

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: This is not a well-maintained page :( please refer detailed information at the g scholar page.
+description: This may not be well-maintained :( please refer detailed information at the g scholar page.
 nav: true
 nav_order: 2
 ---
