@@ -420,6 +420,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-are-accepted-by-the-neurips-25",
           title: 'Two papers are accepted by the NeurIPS’25.',
           description: "",
+          section: "News",},{id: "news-release-a-strong-oss-code-llm-iquest-coder-v1",
+          title: 'Release a strong OSS code LLM IQuest-Coder-V1.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
