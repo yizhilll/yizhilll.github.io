@@ -423,6 +423,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-family-of-strong-oss-looped-code-llm-iquest-coder-v1",
           title: 'A family of strong OSS (looped) code LLM IQuest-Coder-V1.',
           description: "",
+          section: "News",},{id: "news-four-papers-are-accepted-by-the-icml-26-seoul",
+          title: 'Four papers are accepted by the ICML’26, Seoul.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
