@@ -28,13 +28,17 @@ latest_posts:
 <meta name="google-site-verification" content="S4kbKtEbks2C_vUp5k0RsyUsqnr4iLwD6euFRIdAoQY" />
 
 <style>
-  /* The theme gives the custom-social <svg> a 4rem box but only a 3.5rem inner
-     <image>, anchored to the top, so the logo renders 1rem above the baseline
-     while the icon-font glyphs sit 0.5rem above it. Match the box to the image
-     and halve the margin so the Hugging Face logo lines up with the rest. */
+  /* The theme gives the custom-social <svg> a 4rem box holding a top-anchored
+     3.5rem <image>, so the Hugging Face logo rendered above the icon-font
+     glyphs. Their ink position comes from font metrics, not from the box, so
+     no purely geometric rule lines them up -- this offset was measured in a
+     headless browser: the five icon-font glyphs centre on the same pixel row
+     and the logo sat 12.1px above it. Dropping the margin moves it down 8px
+     and the vertical-align the remaining ~4px. */
   .social .contact-icons a svg {
     height: 3.5rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0;
+    vertical-align: -0.25rem;
   }
 </style>
 
