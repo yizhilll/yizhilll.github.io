@@ -27,21 +27,6 @@ latest_posts:
 
 <meta name="google-site-verification" content="S4kbKtEbks2C_vUp5k0RsyUsqnr4iLwD6euFRIdAoQY" />
 
-<style>
-  /* The theme gives the custom-social <svg> a 4rem box holding a top-anchored
-     3.5rem <image>, so the Hugging Face logo rendered above the icon-font
-     glyphs. Their ink position comes from font metrics, not from the box, so
-     no purely geometric rule lines them up -- this offset was measured in a
-     headless browser: the five icon-font glyphs centre on the same pixel row
-     and the logo sat 12.1px above it. Dropping the margin moves it down 8px
-     and the vertical-align the remaining ~4px. */
-  .social .contact-icons a svg {
-    height: 3.5rem;
-    margin-bottom: 0;
-    vertical-align: -0.25rem;
-  }
-</style>
-
 I am a researcher at <a href="https://iquestlab.com/">IQuest Research</a>, building LLMs & Agents.
 I received my PhD from the lab supervised by <a href="https://chenghua-lin.github.io/">Dr. Chenghua Lin</a>, Professor of Natural Language Processing at The University of Manchester.
 I initiated the <a href="https://m-a-p.ai">Multimodal Art Projection (M-A-P)</a> research community with <a href="https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN">Ge Zhang</a>, <a href="https://github.com/a43992899">Ruibin Yuan</a> and <a href="https://nicolaus625.github.io/">Yinghao Ma</a> -- which aims to drive open-source research to cutting-edge level as the industry.
