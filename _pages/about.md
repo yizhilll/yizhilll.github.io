@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>💍📖💻🐶⛰️🤿</a>. # Address. Contacts. Moto. Etc.
+subtitle: Coding LLMs &amp; Agents at <a href="https://iquestlab.com/">IQuest Research, UbiQuant</a> &middot; initiated <a href="https://m-a-p.ai">M-A-P</a> &middot; 💍📖💻🐶⛰️🤿
 
 profile:
   align: right
@@ -53,7 +53,7 @@ Before that, some of my research interests involve:
 
 - Music modelling -- building the universal understanding
   (<a href="https://openreview.net/forum?id=w3YZ9MSlBu">MERT</a>) and generative
-  (<a href="https://map-yue.github.io/">YuE</a>) models for music.
+  (<a href="https://map-yue.github.io/">YuE</a>, <a href="https://map-yue2.github.io/">YuE-2</a>) models for music.
 - LM evaluation at scale
   (<a href="https://arxiv.org/abs/2502.14739">SuperGPQA</a>,
   <a href="https://arxiv.org/abs/2409.15272">OmniBench</a>,
@@ -63,6 +63,33 @@ Before that, some of my research interests involve:
 
 More recent and detailed topics can be referred to my <a href="/publications/">publication page</a>
 or <a href="https://scholar.google.com/citations?user=l5NEL4wAAAAJ">Google Scholar</a>.
+
+---
+
+### Selected Open-Source Releases
+
+Most of my work ships as open weights, data and code -- usually under
+<a href="https://huggingface.co/IQuestLab">IQuestLab</a> or <a href="https://huggingface.co/m-a-p">M-A-P</a> on Hugging Face.
+
+- <a href="https://github.com/IQuestLab/IQuest-Coder-V1">IQuest-Coder-V1</a> --
+  7B/14B/40B(-Loop) code LLMs, white-box checkpoints from pre-training to the final thinking/instruct models
+  (<a href="https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct">weights</a>).
+- <a href="https://github.com/multimodal-art-projection/TerminalTraj">TerminalTraj</a> --
+  32K Docker environments and 50K verified terminal-agent trajectories.
+- <a href="https://github.com/yizhilll/MERT">MERT</a> --
+  self-supervised acoustic music understanding models, widely used as music encoders
+  (<a href="https://huggingface.co/m-a-p/MERT-v1-330M">MERT-v1-330M</a>, ~300K monthly downloads across the family).
+- <a href="https://github.com/multimodal-art-projection/YuE">YuE</a> --
+  open foundation models for long-form music generation
+  (<a href="https://huggingface.co/m-a-p/YuE2-3B">YuE2-3B</a>).
+- <a href="https://github.com/multimodal-art-projection/TreePO">TreePO</a> --
+  tree-based segment-wise rollouts for scalable RL.
+- <a href="https://github.com/multimodal-art-projection/MAP-NEO">MAP-NEO</a> --
+  a fully transparent bilingual LLM series, data pipeline included
+  (<a href="https://huggingface.co/m-a-p/neo_7b">neo_7b</a>).
+- <a href="https://github.com/multimodal-art-projection/OmniBench">OmniBench</a> and
+  <a href="https://huggingface.co/datasets/m-a-p/SuperGPQA">SuperGPQA</a> --
+  evaluation suites for omni-language models and graduate-level knowledge across 285 disciplines.
 
 ---
 
