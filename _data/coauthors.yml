@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Maps a co-author's last name (lowercase) to the URL shown on the publications page.
+# `firstname` lists every spelling that should match, so that common last names
+# (Zhang, Lin, Liu, ...) only link when the first name matches too.
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"lin":
+  - firstname: ["Chenghua", "C."]
+    url: https://chenghua-lin.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"zhang":
+  - firstname: ["Ge", "G."]
+    url: https://scholar.google.com/citations?user=qyTrq4kAAAAJ
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"yuan":
+  - firstname: ["Ruibin", "R."]
+    url: https://github.com/a43992899
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"ma":
+  - firstname: ["Yinghao", "Y."]
+    url: https://nicolaus625.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"fu":
+  - firstname: ["Jie", "J."]
+    url: https://bigaidream.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"liu":
+  - firstname: ["Zhiyuan", "Z."]
+    url: https://nlp.csai.tsinghua.edu.cn/~lzy/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"wu":
+  - firstname: ["Siwei", "S."]
+    url: https://github.com/Wusiwei0410
