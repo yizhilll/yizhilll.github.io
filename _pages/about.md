@@ -27,6 +27,17 @@ latest_posts:
 
 <meta name="google-site-verification" content="S4kbKtEbks2C_vUp5k0RsyUsqnr4iLwD6euFRIdAoQY" />
 
+<style>
+  /* The theme gives the custom-social <svg> a 4rem box but only a 3.5rem inner
+     <image>, anchored to the top, so the logo renders 1rem above the baseline
+     while the icon-font glyphs sit 0.5rem above it. Match the box to the image
+     and halve the margin so the Hugging Face logo lines up with the rest. */
+  .social .contact-icons a svg {
+    height: 3.5rem;
+    margin-bottom: 0.5rem;
+  }
+</style>
+
 I am a researcher at <a href="https://iquestlab.com/">IQuest Research</a>, building LLMs & Agents.
 I received my PhD from the lab supervised by <a href="https://chenghua-lin.github.io/">Dr. Chenghua Lin</a>, Professor of Natural Language Processing at The University of Manchester.
 I initiated the <a href="https://m-a-p.ai">Multimodal Art Projection (M-A-P)</a> research community with <a href="https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN">Ge Zhang</a>, <a href="https://github.com/a43992899">Ruibin Yuan</a> and <a href="https://nicolaus625.github.io/">Yinghao Ma</a> -- which aims to drive open-source research to cutting-edge level as the industry.

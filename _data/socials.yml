@@ -52,6 +52,6 @@ x_username: yizhilll # your X handle
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 huggingface:
-  logo: assets/img/huggingface.svg
+  logo: /assets/img/huggingface.svg
   title: Hugging Face
   url: https://huggingface.co/yizhilll
